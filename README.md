@@ -1,6 +1,6 @@
-## Petrichor
+## Petrichor [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 
-Petrichor is a color-scheme inspired by the colors of rainy days; It's meant to be cozy, soft, and practical.
+Petrichor is a color-scheme inspired by the colors of rainy days; It's meant to be cozy, soft, and practical. 
 
 There are three variants:
 <details>
