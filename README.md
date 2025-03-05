@@ -2,7 +2,7 @@
 
 Petrichor is a color-scheme inspired by the colors of rainy days; It's meant to be cozy, soft, and practical.
 
-There are three variants
+There are three variants:
 <details>
   <summary><code>Downpour</code></summary>
    
@@ -23,6 +23,8 @@ There are three variants
   ![petrichor-overcast](https://github.com/user-attachments/assets/bfae1eeb-359b-4873-ae87-a9161329679b)
 
 </details>
+
+> The font in the screenshots is [Kirsch](https://github.com/molarmanful/kirsch); The editor is [Kakoune](https://kakoune.org/)
 
 ## Features
 - Minimal Highlighting: If everything is highlighted, nothing is.
