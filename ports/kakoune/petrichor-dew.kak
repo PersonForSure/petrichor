@@ -46,7 +46,7 @@ evaluate-commands %sh{
     ## builtin
     echo "
         face global Default ${white_light},${black}
-        face global PrimarySelection white,blue+fg
+        face global PrimarySelection ${cyan_light},${black_lighter}+fg
         face global SecondarySelection black,blue+fg
         face global PrimaryCursor black,white+fg
         face global SecondaryCursor black,white+fg
