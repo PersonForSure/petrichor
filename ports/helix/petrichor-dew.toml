@@ -1,0 +1,77 @@
+# Author: Monocled
+
+"keyword" = "white"
+"function" = "white"
+"constant" = "white"
+
+"function.macro" = "cyan"
+"tag" = "cyan"
+
+"comment" = { fg = "bright_cyan", modifiers = ["italic"] }
+
+"namespace" = "blue"
+"type" = "blue"
+
+"operator" = "yellow"
+"special" = "yellow"
+"constructor" = "yellow"
+"label" = "yellow"
+"attribute" = "yellow"
+
+"variable" = "white"
+
+"string" = "bright_white"
+
+"ui.background" = { bg = "bg" }
+"ui.background.separator" = { fg = "fg "}
+
+"ui.selection" = { bg = "bright_black", fg = "bright_yellow" }
+
+"ui.statusline" = { fg = "fg", bg = "black" }
+"ui.statusline.select" = { fg = "cyan" }
+"ui.statusline.insert" = { fg = "yellow" }
+
+"ui.linenr" = { fg = "fg", bg = "black" }
+"ui.linenr.selected" = { fg = "bright_yellow", bg = "bright_black" }
+"ui.gutter" = { bg = "black" }
+"ui.gutter.selected" = { fg = "bright_yellow", bg = "bright_black" } 
+
+"ui.menu" = { fg = "fg", bg = "black" }
+"ui.menu.selected" = { fg = "bright_yellow", bg = "bright_black" }
+"ui.menu.scroll" = { fg = "bright_white", bg = "black"}
+
+"ui.cursor" = { bg = "white", fg = "black" }
+"ui.cursor.match" = { bg = "bright_cyan"  }
+
+warning = "bright_yellow"
+error = "bright_red"
+info = "bright_cyan"
+hint = "bright_cyan"
+
+[palette]
+bg = "#1c1c20"
+fg = "#9ca1b6"
+
+black = "#27252c"
+bright_black = "#33313d"
+
+red = "#906775"
+bright_red = "#ae8093"
+
+green = "#947f6b"
+bright_green = "#7e9984"
+
+yellow = "#ab8575"
+bright_yellow = "#cba38c"
+
+blue = "#858db3"
+bright_blue = "#a5abd8"
+
+magenta = "#927aa3"
+bright_magenta = "#b19cc2"
+
+cyan = "#86a6a6"
+bright_cyan = "#9bc1c1"
+
+white = "#aebae9"
+bright_white = "#dfd6e9"
