@@ -1,0 +1,39 @@
+[colors]
+background = "#1b1b22"
+foreground = "#9ca1b6"
+
+cursor = "#9ca1b6"
+vi-cursor = "#d9d6e9"
+
+selection-background = "#9ca1b6"
+selection-foreground = "#1b1b22"
+
+tabs = '#86a3a6'
+tabs-foreground = '#9ca1b6'
+tabs-active = '#302f3f'
+tabs-active-highlight = '#c19b9b'
+tabs-active-foreground = '#9ca1b6'
+bar = '#22212c'
+
+search-match-background = '#1b1b22'
+search-match-foreground = '#9ca1b6'
+search-focused-match-background = '#1b1b22'
+search-focused-match-foreground = '#9ca1b6'
+
+black = "#22212c"
+red = "#906775"
+green = "#6a8578"
+yellow = "#a68686"
+blue = "#848cb2"
+magenta = "#927794"
+cyan = "#86a3a6"
+white = "#aebae9"
+
+light-black = "#302f3f"
+light-red = "#ae8093"
+light-green = "#86a28f"
+light-yellow = "#c19b9b"
+light-blue = "#9da4c8"
+light-magenta = "#ad8eab"
+light-cyan = "#9bb9c1"
+light-white = "#d9d6e9"
