@@ -1,0 +1,64 @@
+[metadata]
+name = "petrichor-overcast"
+author = "Sebaguardian"
+origin_url = "https://github.com/PersonForSure/petrichor"
+
+[colors]
+foreground = "#c3c6d3"
+background = "#202023"
+cursor_bg = "#c3c6d3"
+cursor_border = "#c3c6d3"
+cursor_fg = "#202023"
+compose_cursor = "#c3c6d3"
+selection_bg = "#c3c6d3"
+selection_fg = "#202023"
+scrollbar_thumb = "#8e93a8"
+split = "#29292c"
+visual_bell = "#c3c6d3"
+ansi = ["#29292c", "#8a6d77", "#787878", "#c4afa2", "#8e93a8", "#a398a3", "#86a3a6", "#bec0e1"]
+brights = ["#33333b", "#ae8093", "#949494", "#e0cca8", "#9da4c8", "#b29cb3", "#9cb9c0", "#d9d6e9"]
+
+[colors.tab_bar]
+background = "#202023"
+inactive_tab_edge = "#202023"
+inactive_tab_edge_hover = "#33333b"
+
+[colors.tab_bar.active_tab]
+bg_color = "#86a3a6"
+fg_color = "#c3c6d3"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#202023"
+fg_color = "#c3c6d3"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#33333b"
+fg_color = "#c3c6d3"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#202023"
+fg_color = "#c3c6d3"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#33333b"
+fg_color = "#c3c6d3"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
