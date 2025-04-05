@@ -1,0 +1,30 @@
+{
+  "EncodedImage": "",
+  "Name": "Petrichor-Dew",
+  "Author": "Sebaguardian",
+  "Colors": {
+     Foreground: "#9ca1b6",
+     Background: "#1c1c20",
+     Cursor: "#9ca1b6",
+     CursorAccent: "#dfd6e9",
+     SelectionBackground: "#9ca1b6",
+     SelectionForeground: "#1c1c20",
+     Black: "#27252c",
+     Red: "#906775",
+     Green: "#947f6b",
+     Yellow: "#ab8575",
+     Blue: "#858db3",
+     Magenta: "#927aa3",
+     Cyan: "#86a6a6",
+     White: "#aebae9",
+     BrightBlack: "#33313d",
+     BrightRed: "#ae8093",
+     BrightGreen: "#7e9984",
+     BrightYellow: "#cba38c",
+     BrightBlue: "#a5abd8",
+     BrightMagenta: "#b19cc2",
+     BrightCyan: "#9bc1c1",
+     BrightWhite: "#dfd6e9"
+     },
+  "BackgroundImage": null
+}

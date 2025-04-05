@@ -1,0 +1,30 @@
+{
+  "EncodedImage": "",
+  "Name": "Petrichor-Downpour",
+  "Author": "Sebaguardian",
+  "Colors": {
+     Foreground: "#9ca1b6",
+     Background: "#1b1b22",
+     Cursor: "#9ca1b6",
+     CursorAccent: "#d9d6e9",
+     SelectionBackground: "#9ca1b6",
+     SelectionForeground: "#1b1b22",
+     Black: "#22212c",
+     Red: "#906775",
+     Green: "#6a8578",
+     Yellow: "#a68686",
+     Blue: "#848cb2",
+     Magenta: "#927794",
+     Cyan: "#86a3a6",
+     White: "#aebae9",
+     BrightBlack: "#302f3f",
+     BrightRed: "#ae8093",
+     BrightGreen: "#86a28f",
+     BrightYellow: "#c19b9b",
+     BrightBlue: "#9da4c8",
+     BrightMagenta: "#ad8eab",
+     BrightCyan: "#9bb9c1",
+     BrightWhite: "#d9d6e9"
+     },
+  "BackgroundImage": null
+}
