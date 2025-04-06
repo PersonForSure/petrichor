@@ -1,0 +1,30 @@
+{
+  "EncodedImage": "",
+  "Name": "Petrichor-Overcast",
+  "Author": "Sebaguardian",
+  "Colors": {
+     Foreground: "#c3c6d3",
+     Background: "#202023",
+     Cursor: "#c3c6d3",
+     CursorAccent: "#d9d6e9",
+     SelectionBackground: "#c3c6d3",
+     SelectionForeground: "#202023",
+     Black: "#29292c",
+     Red: "#8a6d77",
+     Green: "#787878",
+     Yellow: "#c4afa2",
+     Blue: "#8e93a8",
+     Magenta: "#a398a3",
+     Cyan: "#86a3a6",
+     White: "#bec0e1",
+     BrightBlack: "#33333b",
+     BrightRed: "#ae8093",
+     BrightGreen: "#949494",
+     BrightYellow: "#e0cca8",
+     BrightBlue: "#9da4c8",
+     BrightMagenta: "#b29cb3",
+     BrightCyan: "#9cb9c0",
+     BrightWhite: "#d9d6e9"
+     },
+  "BackgroundImage": null
+}
