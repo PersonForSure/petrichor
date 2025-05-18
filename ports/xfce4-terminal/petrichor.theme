@@ -1,9 +1,9 @@
 [Scheme]
 Name=petrichor-overcast
-ColorCursor=#c3c6d3
-ColorForeground=#c3c6d3
+ColorCursor=#d9d6e9
+ColorForeground=#d9d6e9
 ColorBackground=#202023
 TabActivityColor=#86a3a6
-ColorPalette=#29292c;#8a6d77;#787878;#c4afa2;#8e93a8;#a398a3;#86a3a6;#bec0e1;#33333b;#ae8093;#949494;#e0cca8;#9da4c8;#b29cb3;#9cb9c0;#d9d6e9
-ColorBold=#c3c6d3
+ColorPalette=#202023;#9c6b7a;#838984;#c4afa2;#8d96bd;#b694b6;#86a3a6;#33333b;#29292c;#ae808f;#8d9b92;#e0cca8;#9da4c8;#d2aece;#9cb9c0;#d9d6e9
+ColorBold=#d9d6e9
 ColorBoldUseDefault=FALSE

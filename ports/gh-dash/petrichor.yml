@@ -2,15 +2,15 @@ theme:
   colors:
     text:
       primary: "#d9d6e9"
-      secondary: "#bec0e1"
+      secondary: "#d9d6e9"
       inverted: "#29292c"
-      faint: "#c3c6d3"
+      faint: "#d9d6e9"
       warning: "#e0cca8"
-      success: "#949494"
-      error: "#906775"
+      success: "#8d9b92"
+      error: "#9c6b7a"
     background:
-      selected: "#1c1c20"
+      selected: "#202023"
     border:
-      primary: "#bec0e1"
-      secondary: "#33313d"
+      primary: "#9da4c8"
+      secondary: "#33333b"
       faint: "#202023"

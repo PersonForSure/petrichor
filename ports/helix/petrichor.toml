@@ -1,11 +1,11 @@
 # Author: Monocled
 
 "keyword" = "white"
-"function" = "white"
 "constant" = "white"
 
 "function.macro" = "cyan"
 "tag" = "cyan"
+"function" = "cyan"
 
 "comment" = { fg = "bright_cyan", modifiers = ["italic"] }
 
@@ -16,31 +16,31 @@
 "special" = "yellow"
 "constructor" = "yellow"
 "label" = "yellow"
-"attribute" = "yellow"
+"attribute" = "bright_yellow"
 
-"variable" = "white"
+"variable" = "magenta"
 
-"string" = "bright_white"
+"string" = "white"
 
-"ui.background" = { bg = "bg" }
-"ui.background.separator" = { fg = "fg "}
+"ui.background" = { bg = "black" }
+"ui.background.separator" = { fg = "white "}
 
 "ui.selection" = { bg = "bright_black", fg = "bright_yellow" }
 
-"ui.statusline" = { fg = "fg", bg = "black" }
+"ui.statusline" = { fg = "white", bg = "bright_black" }
 "ui.statusline.select" = { fg = "cyan" }
 "ui.statusline.insert" = { fg = "yellow" }
 
-"ui.linenr" = { fg = "fg", bg = "black" }
-"ui.linenr.selected" = { fg = "bright_yellow", bg = "bright_black" }
-"ui.gutter" = { bg = "black" }
-"ui.gutter.selected" = { fg = "bright_yellow", bg = "bright_black" } 
+"ui.linenr" = { fg = "white", bg = "bright_black" }
+"ui.linenr.selected" = { fg = "bright_yellow", bg = "brighter_black" }
+"ui.gutter" = { bg = "bright_black" }
+"ui.gutter.selected" = { fg = "bright_yellow", bg = "brighter_black" } 
 
-"ui.menu" = { fg = "fg", bg = "black" }
-"ui.menu.selected" = { fg = "bright_yellow", bg = "bright_black" }
-"ui.menu.scroll" = { fg = "bright_white", bg = "black"}
+"ui.menu" = { fg = "white", bg = "bright_black" }
+"ui.menu.selected" = { fg = "bright_yellow", bg = "brighter_black" }
+"ui.menu.scroll" = { fg = "bright_white", bg = "bright_black"}
 
-"ui.cursor" = { bg = "white", fg = "black" }
+"ui.cursor" = { bg = "white", fg = "bright_black" }
 "ui.cursor.match" = { bg = "bright_cyan"  }
 
 warning = "bright_yellow"
@@ -49,29 +49,26 @@ info = "bright_cyan"
 hint = "bright_cyan"
 
 [palette]
-bg = "#202023"
-fg = "#c3c6d3"
+black = "#202023"
+bright_black = "#29292c"
+brighter_black = "#33333b"
 
-black = "#29292c"
-bright_black = "#33333b"
+red = "#838984"
+bright_red = "#ae808f"
 
-red = "#8a6d77"
-bright_red = "#ae8093"
-
-green = "#787878"
-bright_green = "#949494"
+green = "#838984"
+bright_green = "#8d9b92"
 
 yellow = "#c4afa2"
 bright_yellow = "#e0cca8"
 
-blue = "#8e93a8"
+blue = "#8d96bd"
 bright_blue = "#9da4c8"
 
-magenta = "#a389a3"
-bright_magenta = "#b29cb3"
+magenta = "#b694b6"
+bright_magenta = "#d2aece"
 
 cyan = "#86a3a6"
 bright_cyan = "#9cb9c0"
 
-white = "#bec0e1"
-bright_white = "#d9d6e9"
+white = "#d9d6e9"
