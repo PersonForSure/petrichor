@@ -13,6 +13,3 @@ Petrichor is a color scheme inspired by the colors of rainy days; it's meant to 
 ## Features
 - Minimal Highlighting: If everything is highlighted, nothing is, additionally comments are highlighted.
 - Designed to have good contrast while still being easy on the eyes.
-
-## Notes
-Many more ports are in progress along with a base16 version; feel free to submit an issue if you want to request a port.
